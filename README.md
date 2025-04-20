@@ -1,1 +1,1 @@
-# CICD-ON-AWS
+# CICD-on-AWS
